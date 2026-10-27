@@ -10,8 +10,8 @@ import random
 import time
 from datetime import datetime
 
-# Gizli mesaj (base64 ile saklandı, ciddi bir şey değil): S2F5eXVtIGhlciB5ZXJlIGFhdGFuc8SxbiEgRGVtb2tyYXNpIGJ1emRvbGFixLFuZGEgZG9uZHU=
-# (Çözünce absürt bir şey çıkar, politik değildir, sadece kayyum esprisidir)
+# Gizli mesaj (base64 ile saklandı, ciddi bir şey değil): S2F5eXVtIGhlciB5ZXJlIGF0YW5zxLFuISBEZW1va3Jhc2kgYnV6ZG9sYWLEsW5kYSBkb25kdS4=
+# (Çözünce absürt bir şey çıkar, sadece kayyum esprisidir, politik iddia değildir)
 
 KARARLAR = [
     "Süt artık kayyum kontrolündedir. İçilmesine izin yok, dondurulacak.",
